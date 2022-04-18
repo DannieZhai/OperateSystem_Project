@@ -3,3 +3,4 @@ This is a repository for OS projects. 这是一个操作系统大作业的有关
 
 第一个项目：用C语言写一个自己的shell。要求实现功能主要有：
 history历史命令、管道、重定向、cd、exit、
+第二个项目：进程管理。
